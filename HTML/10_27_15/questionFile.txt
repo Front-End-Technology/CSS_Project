@@ -1,0 +1,5 @@
+ 1..........The value of the attribute can be read by "screen readers". This way, someone "listening" to the webpage, 
+i.e. a blind person, can "hear" the element
+
+
+2.....UTF 8
